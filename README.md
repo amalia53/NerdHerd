@@ -1,7 +1,3 @@
 # NerdHerd
 
-A 2D puzzle game.
-
-Framework: Unity
-
-Language: C#
+A 2D puzzle game created with Unity and written in C#.
